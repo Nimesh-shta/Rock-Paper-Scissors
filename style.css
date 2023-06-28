@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+	font-family: Arial, sans-serif;
+	background-color: rgb(65, 179, 163);
+  }
+  
+  h1 {
+	margin-top: 30px;
+	text-align: left;
+	font-size: 20px;
+	color: aliceblue;
+  }
+  
+  .game {
+	text-align: center;
+    margin-top: 200px;
+	
+  }
+  h2{
+	font-size: 100px;
+	color: white;
+	font-family: Calibri;
+	margin-top: 200px;
+	}
+  .move {
+	background-color: rgb(32, 131, 118); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+  }
+  
+  #result {
+  font-size: 100px;
+	color: white;
+	font-family: Calibri;
+	margin-top: 200px;
+  }
+  footer{
+    margin-top: 300px;
+    text-align: center;
+    color: aliceblue;
+}
+  
